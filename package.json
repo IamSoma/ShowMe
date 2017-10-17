@@ -1,0 +1,22 @@
+{
+  "name": "showme",
+  "version": "1.0.0",
+  "description": "A site designed to help find mentors for various coding languages and practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamSoma/ShowMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamSoma/ShowMe/issues"
+  },
+  "homepage": "https://github.com/IamSoma/ShowMe#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
